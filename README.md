@@ -32,8 +32,9 @@ Name | Params(M) | download DUO|  download ISTI
 [TISC-Net-xP6](ultralytics/models/v8/yolov8-pose-p6-FEE.yaml) | 99.3 | [DUO_model](https://drive.google.com/file/d/1Ix_CiNNQ2wvUJLEOfkmYH2x_iJDPmuhM/view?usp=drive_link)| [ISTI_model](https://drive.google.com/file/d/1vUCLUFPxsJrsxn-t4rqXYZT_V3cq35JF/view?usp=drive_link)
 
 ## Dataset preparation 
-You need to prepare datasets for following training and testing activities. [Datasets](https://drive.google.com/drive/folders/1Vu5FXJCceBJgjQ-BlbtqkqlKP38wqlcb?usp=drive_link)
-
+1. You need to prepare datasets for following training and testing activities. [Datasets](https://drive.google.com/drive/folders/1Vu5FXJCceBJgjQ-BlbtqkqlKP38wqlcb?usp=drive_link)
+2. The SC-ISTI dataset comprises 462 RGB images captured by an underwater robot in real habitat of sea cucumbers, with 670 sea cucumbers.
+3. The SC-DUO dataset consists of 1, 023 images containing 1, 856 sea cucumbers, which is created by selecting images containing sea cucumbers from [DUO dataset](https://arxiv.org/abs/2106.05681).
 ## Quick Start
 
 ### Inference with Pre-trained Models
