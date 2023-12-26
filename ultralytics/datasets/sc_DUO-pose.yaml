@@ -1,0 +1,11 @@
+path: /data/sc_DUO
+
+
+train: images/train
+val: images/val
+test: images/val
+
+kpt_shape: [5, 3]
+
+names:
+  0: sc_rect
