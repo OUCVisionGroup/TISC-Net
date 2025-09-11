@@ -91,8 +91,3 @@ author = {Shuaixin Liu and Kunqian Li and Yilin Ding and Kuangwei Xu and Qianli 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Honeybadger-LSX&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Honeybadger-LSX/count.svg) visitor,Thank You!
-
-
