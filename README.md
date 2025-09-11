@@ -70,7 +70,23 @@ metrics.box.map75  # map75
 metrics.box.maps   # a list con
 
 ```
+---
 
+## 📖 Citation
+
+If you find our work useful, please consider citing:
+
+```
+@article{LIU2025110944,
+title = {Towards the in-situ trunk identification and length measurement of sea cucumbers via Bézier curve modelling},
+journal = {Computers and Electronics in Agriculture},
+volume = {239},
+pages = {110944},
+year = {2025},
+issn = {0168-1699},
+author = {Shuaixin Liu and Kunqian Li and Yilin Ding and Kuangwei Xu and Qianli Jiang and Q.M. Jonathan Wu and Dalei Song}
+}
+```
 
 
 
