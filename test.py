@@ -76,7 +76,8 @@ if __name__ == '__main__':
     wandb.init(config=opt,
                project=opt.project_name,
                entity=opt.team_name,
-               name=opt.weights,
+               # name=opt.weights,
+               name=“test1”,
                group=opt.scenario_name,
                job_type="training",
                reinit=True)
