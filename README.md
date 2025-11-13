@@ -1,5 +1,16 @@
 # TISC-Net: Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bezier Curve Modelling
 - 🔭 I’m currently working on something cool.
+<p align="center">
+  <img src="fig/image17.GIF" alt="Sea trial experiment results" height="300">
+  <br>
+  <em>Dynamic visualization of in-situ sea cucumber trunk identification during sea trial.</em>
+</p>
+
+<p align="center">
+  <img src="fig/image12.GIF" alt="Bezier curve fitting process" height="300">
+  <br>
+  <em>Bezier curve fitting demonstration for sea cucumber trunk modelling.</em>
+</p>
 
 <table>
     <tr>
